@@ -1,0 +1,38 @@
+body{
+	background-color: #5B5050;
+}
+.table{
+	background-color: #ffffff;
+	margin: 5%;
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.header{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.number,.time{
+	margin: 0.5rem 5rem 0 5rem;
+}
+button{
+	width: 60px;
+	height: 60px;
+	margin: 3rem 0;
+	border-radius: 50%;
+}
+.time{
+	text-align: center;
+}
+.question1{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.answer{
+	border: 1px solid black;
+	margin: 1rem;
+	padding: 1rem 1rem;
+	border-radius: 0.5rem;
+}
+h2{
+	text-align: center;
+}
